@@ -1,5 +1,9 @@
 # Current Release
 
+## TBD
+- Improvements:
+* Support for Ghidra 11.4.1 and 11.4.2
+
 ## 250709
 - Improvements:
 * Support for Ghidra 11.4
